@@ -1,0 +1,19 @@
+// HEADER-BLOCK========================================================
+.header-block {
+	letter-spacing: 0.2px;
+	text-align: center;
+}
+.header-block > *:not(:last-child){
+	margin-bottom: 10px;
+}
+.header-block__title {
+	font-size: 40px;
+	line-height: 142%;
+	font-weight: 700;
+	text-transform: capitalize;
+}
+.header-block__text {
+	font-size: 14px;
+	line-height: 143%;
+	font-weight: 500;
+}

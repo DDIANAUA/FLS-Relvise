@@ -1,0 +1,17 @@
+.clients {
+	padding-block-start: 50px;
+	padding-block-end: 40px;
+}
+.clients__container {
+}
+.clients__body {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.clients__item {
+	flex: 0 0 16.666667%;
+	text-align: center;
+	padding-inline: 10px;
+	margin-bottom: 10px;
+}

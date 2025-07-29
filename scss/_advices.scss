@@ -1,0 +1,53 @@
+.advices {
+	padding-block: 80px;
+}
+.advice__container {
+}
+.advices__header {
+	margin-bottom: 45px;
+}
+.advices__body {
+	display: flex;
+	margin-inline: -15px;
+}
+.advices__column {
+	flex: 0 0 25%;
+	padding-inline: 15px;
+}
+.advices__item {
+}
+.advice {
+	background-color: #fff;
+	display: flex;
+	height: 100%;
+	flex-direction: column;
+}
+.advice__text-block{
+	flex: 1 1 auto;
+	padding: 30px;
+}
+.advice__link{
+	color: #252B42;
+}
+.advice__link:visited{
+	color: #252B42;
+}
+.advice__title {
+	font-size: 16px;
+	line-height: 150%;
+	font-weight: 700;
+	letter-spacing: 0.1px;
+	margin-bottom: 15px;
+	color: #252B42;
+}
+.advice__text {
+	font-size: 14px;
+	line-height: 143%;
+	font-weight: 500;
+	letter-spacing: 0.2px;
+	color: #737373;
+}
+.advice__img {
+	display: block;
+	padding: 0 0 69% 0;
+}
